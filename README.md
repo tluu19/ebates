@@ -10,7 +10,7 @@ Javascript and jQuery were used for this exercise. There were 3 functions used: 
 
 ## Testing
 
-This JSON had a lot of data. The first test I did was figuring out how many pages are there so I know what I'm dealing with. It took awhile to run all 1000 pages. In order to test it, the data was separated into a small part. Only the first 10 pages were tested in the beginning. After the first 10 pages were tested out and passed and the program was completed, I tested the whole file with all the pages a few times in different browsers.
+This JSON had a lot of data. The first test I did was figuring out how many pages are there so I know what I'm dealing with. It took awhile to run all 1000 pages. In order to test my code, the data was separated into a smaller part. Only the first 10 pages were tested in the beginning. After the first 10 pages were tested out and passed and the program was completed, I tested the whole file with all the pages a few times in different browsers.
 
 ## Results
 
